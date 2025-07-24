@@ -1,4 +1,4 @@
-🎮 **Tic Tac Toe — Web Game (JavaScript + TailwindCSS)**
+ 🎮 **Tic Tac Toe — Web Game (JavaScript + TailwindCSS)**
 
 A responsive, interactive Tic Tac Toe game built using HTML, TailwindCSS, and Vanilla JavaScript — featuring sound effects, player turn logic, win/draw detection, and a sleek UI!
 
@@ -34,7 +34,7 @@ You can play it live here: https://tic-tac-toe-fun-24.vercel.app/
 
 1. The game board is a 3x3 grid.
 
-2.Player X starts first.
+2. Player X starts first.
 
 3. On every valid move:
    - The cell fills with current player's symbol.
